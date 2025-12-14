@@ -1,2 +1,2 @@
-# ola mundo
-primeiro repositório versionado
+# Olá Mundo
+Repositório versionado criado em aula.
